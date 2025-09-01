@@ -1,6 +1,6 @@
 ## Hi there 🖖🏼, I'm Benedetta
 
-I'm a Physics undergraduate at the University of Trieste.
+I'm a Physics student at the University of Trieste.
 I am currently building my skills in theoretical and computational physics to pursue a career in research.
 ---
 
