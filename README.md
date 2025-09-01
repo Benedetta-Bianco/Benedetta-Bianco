@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 🖖🏼, I'm Benedetta
 
-<!--
-**Benedetta-Bianco/Benedetta-Bianco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Physics undergraduate at the University of Trieste.
+I am currently building my skills in theoretical and computational physics to pursue a career in research.
+---
 
-Here are some ideas to get you started:
+🔭 **I’m currently working on:**
+- A traineeship focused on Differential Geometry and its applications in Physics.
+- Solidifying my Python skills for scientific computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❓**About Me:**
+
+Beyond physics, I'm an avid reader and I enjoy expressing my creativity through drawing and music.
+In my free time, I also love to play video games.
